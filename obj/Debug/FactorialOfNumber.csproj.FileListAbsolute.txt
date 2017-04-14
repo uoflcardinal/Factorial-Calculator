@@ -1,0 +1,6 @@
+c:\users\paperspace\documents\visual studio 2015\Projects\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe.config
+c:\users\paperspace\documents\visual studio 2015\Projects\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe
+c:\users\paperspace\documents\visual studio 2015\Projects\FactorialOfNumber\bin\Debug\FactorialOfNumber.pdb
+c:\users\paperspace\documents\visual studio 2015\Projects\FactorialOfNumber\obj\Debug\FactorialOfNumber.csprojResolveAssemblyReference.cache
+c:\users\paperspace\documents\visual studio 2015\Projects\FactorialOfNumber\obj\Debug\FactorialOfNumber.exe
+c:\users\paperspace\documents\visual studio 2015\Projects\FactorialOfNumber\obj\Debug\FactorialOfNumber.pdb
